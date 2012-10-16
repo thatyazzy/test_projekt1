@@ -1,11 +1,14 @@
 <html>
-Nu har jag redigerat denna php-filen
-
-Tjena hejsan
+<head>
+<meta charset="UTF-8">
+<title>GitHub</title>
+</head>
+<body>
+<h1>Tjena hejsan</h1>
 <?php
 
-Här är ett php block
+echo Här är ett php block
 
 ?>
-
+</body>
 </html>
