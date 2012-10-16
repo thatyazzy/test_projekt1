@@ -7,7 +7,7 @@
 <h1>Tjena hejsan</h1>
 <?php
 
-echo Här är ett php block
+echo "HÃ¤r Ã¤r ett php block";
 
 ?>
 </body>
